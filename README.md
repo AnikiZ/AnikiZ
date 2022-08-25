@@ -1,9 +1,3 @@
----
-title: About
-icon: fas fa-info-circle
-order: 4
----
-
 ### Hi there👋 😄
 
 - 🎆 ECE Master's student at Carnegie Mellon University
