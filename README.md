@@ -1,4 +1,15 @@
-### Hi there 👋
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
+
+### Hi there👋 😄
+
+- 🎆 ECE Master's student at Carnegie Mellon University
+- 🌠 Interested in cooking🧑‍🍳 & traveling📸
+- 🔖 Currently learning Golang and distributed system
+- 📫 How to reach me: [anikizzp@gmail.com](mailto:shili2048@gmail.com) / [zepingz@andrew.cmu.edu](mailto:lishi@andrew.cmu.edu)
 
 <!--
 **AnikiZ/AnikiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
