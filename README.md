@@ -4,7 +4,7 @@
 - 🌠 Interested in cooking🧑‍🍳 & traveling📸
 - 🔖 Currently learning Golang and distributed system
 - 📫 How to reach me: [anikizzp@gmail.com](mailto:shili2048@gmail.com) / [zepingz@andrew.cmu.edu](mailto:lishi@andrew.cmu.edu)
-- 📚 Welcome to visit my blog: [github.anikiz.io](https://anikiz.github.io/)
+- 📚 Welcome to visit my blog: [AnikiZ.github.io](https://anikiz.github.io/)
 <!--
 **AnikiZ/AnikiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
